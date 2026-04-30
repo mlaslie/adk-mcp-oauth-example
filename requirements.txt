@@ -1,0 +1,8 @@
+google-adk
+mcp
+fastmcp
+python-dotenv
+httpx
+google-auth
+google-api-python-client
+starlette
